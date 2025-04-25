@@ -20,7 +20,7 @@ public class ContaBanco {
     public double getSaldo(){
         return saldo;
     }
-    public void setSaldo(double Saldo){ //necessário parâmetro
+    public void setSaldo(double saldo){ //necessário parâmetro
         this.saldo = saldo;
     }
 
